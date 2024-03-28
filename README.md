@@ -6,5 +6,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shach1&rank_icon=github&show_icons=true&card_width=300" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shach1&layout=compact&langs_count=8&card_width=350" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shach1&layout=compact&langs_count=8&card_width=380" />
 </a>
