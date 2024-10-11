@@ -1,5 +1,5 @@
 ## Hello, I'm Evgeniy :wave:
-### Now I am a second year student at the Russian Technological University MIREA :computer:
+### Now I am a third-year student at the Russian Technological University MIREA :computer:
 ----
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
